@@ -1,5 +1,4 @@
 {
-  "name": "accolite-project",
   "version": "1.0.0",
   "type": "module",
   "main": "dist/index.cjs.js",
@@ -66,5 +65,9 @@
     "@types/react": "^18.3.3",
     "react": "^18.3.1",
     "typescript": "^5.5.2"
-  }
+  },
+  "publishConfig": {
+  "registry": "https://npm.pkg.github.com/@aman-shukla-accolitedigital"
+},
+"name": "@aman-shukla-accolitedigital/test-project-react"
 }
