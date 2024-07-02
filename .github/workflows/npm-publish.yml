@@ -17,7 +17,7 @@ jobs:
         with:
           node-version: 18
           registry-url: https://registry.npmjs.org/
-          scope: "@aman-shukla-accolitedigital"
+          scope: "@aman_shukla_accolitedigital"
       - name: Install dependencies
         run: npm install
 
