@@ -69,5 +69,9 @@
   "publishConfig": {
   "registry": "https://npm.pkg.github.com/@aman-shukla-accolitedigital"
 },
-"name": "@aman-shukla-accolitedigital/test-project-react"
+"name": "@aman-shukla-accolitedigital/test-project-react",
+"repository": {
+    "type": "git",
+    "url": "https://github.com/aman-shukla-accolitedigital/test-project-react.git"
+  }
 }
